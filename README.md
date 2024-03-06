@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark
 - 👀 I’m interested in quantitative criminology (Time Series/Spatial Analysis, Regression/Path Modeling).
-- 🌱 I’m currently learning Spatiotemporal analysis.
+- 🌱 I’m currently learning Spatiotemporal analysis for prison outcome evaluation.
 - 💞️ I’m looking to collaborate on quantitative criminology papers.
 - 📫 How to reach me e-mail - markallencatherman at outlook.
 <!---
