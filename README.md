@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Catherman23
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in quantitative criminology (Time Series/Spatial Analysis, Regression/Path Modeling).
 - 🌱 I’m currently learning Spatiotemporal analysis.
 - 💞️ I’m looking to collaborate on quantitative criminology papers.
